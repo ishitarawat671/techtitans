@@ -1,0 +1,22 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is behind 'origin/main' by 2 commits, and can be fast-forwarded.
+#   (use "git pull" to update your local branch)
+#
+# Changes to be committed:
+#	modified:   index.html
+#
+# Changes not staged for commit:
+#	modified:   Script.js
+#	modified:   index.html
+#	modified:   style.css
+#
+# Untracked files:
+#	Screenshot_2025-03-27_022722.png
+#	Untitled video - Made with Clipchamp (1).mp4
+#	asian-school-of-business-logo-removebg-preview_1.png
+#	naac4-removebg-preview.png
+#
